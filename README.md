@@ -1,15 +1,6 @@
 # This is my project, done with other university colleagues, on a Rogowski coil.
-L’ obiettivo di questo lavoro è quello di partire dalle conoscenze acquisite lungo il percorso
-universitario, per giungere alla realizzazione di un progetto, aﬀrontando nel dettaglio gli argomenti
-trattati durante il corso che verrà illustrato in due parti.
-Nella prima sono esposte le finalità del progetto, con i rispettivi vantaggi e svantaggi, il
-funzionamento fisico che sta dietro ad esso, e la fase di brainstorming che ci ha permesso di
-determinare gli elementi necessari per il suo sviluppo.
-Nella seconda parte è illustrato come, partendo dai criteri esposti nella prima si è riusciti nella
-realizzazione dello stesso mediante l’ausilio di schemi circuitali e software specifici, di
-componentistica elettronica e, programmazione del microcontrollore.
+L’ obiettivo di questo lavoro è quello di partire dalle conoscenze acquisite lungo il percorso universitario, per giungere alla realizzazione di un progetto, aﬀrontando nel dettaglio gli argomenti trattati durante il corso che verrà illustrato in due parti.
+Nella prima sono esposte le finalità del progetto, con i rispettivi vantaggi e svantaggi, il funzionamento fisico che sta dietro ad esso, e la fase di brainstorming che ci ha permesso di determinare gli elementi necessari per il suo sviluppo.
+Nella seconda parte è illustrato come, partendo dai criteri esposti nella prima si è riusciti nella realizzazione dello stesso mediante l’ausilio di schemi circuitali e software specifici, di componentistica elettronica e, programmazione del microcontrollore.
 Infine, raggiunto l’obiettvo, ne sono sta evidenziati i limiti e le criticità.
-Lo sviluppo del progetto è stato in gran parte eseguito nel laboratorio ESDLab di UNIPA con la
-supervisione del professore Costantino Giaconia e, grazie anche all’aiuto dei dottorandi, siamo
-riusci a raggiungere l’obiettvo confrontandoci costantemente sulle problematiche che riscontrate in
-corso di esecuzione e le migliori soluzioni da adottare.
+Lo sviluppo del progetto è stato in gran parte eseguito nel laboratorio ESDLab di UNIPA con la supervisione del professore Costantino Giaconia e, grazie anche all’aiuto dei dottorandi, siamo riusciti a raggiungere l’obiettvo confrontandoci costantemente sulle problematiche che riscontrate in corso di esecuzione e le migliori soluzioni da adottare.
