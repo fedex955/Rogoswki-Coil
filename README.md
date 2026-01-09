@@ -4,7 +4,7 @@ universitario, per giungere alla realizzazione di un progetto, aﬀrontando nel 
 trattati durante il corso che verrà illustrato in due parti.
 Nella prima sono esposte le finalità del progetto, con i rispettivi vantaggi e svantaggi, il
 funzionamento fisico che sta dietro ad esso, e la fase di brainstorming che ci ha permesso di
-determinare gli elemen necessari per il suo sviluppo.
+determinare gli elementi necessari per il suo sviluppo.
 Nella seconda parte è illustrato come, partendo dai criteri esposti nella prima si è riusciti nella
 realizzazione dello stesso mediante l’ausilio di schemi circuitali e software specifici, di
 componentistica elettronica e, programmazione del microcontrollore.
